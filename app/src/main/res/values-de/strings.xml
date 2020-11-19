@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dreiecks Rechner</string>
+    <string name="text_side_a_et">Seite a</string>
+    <string name="text_side_b_et">Seite b</string>
+    <string name="text_side_c_et">Seite c</string>
+    <string name="text_angle_gamma_et">Winkel γ</string>
+    <string name="text_angle_alpha_et">Winkel α</string>
+    <string name="text_angle_beta_et">Winkel β</string>
+</resources>

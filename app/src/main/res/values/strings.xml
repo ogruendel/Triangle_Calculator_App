@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Triangle Calculator</string>
+    <string name="text_side_a_et">Side a</string>
+    <string name="text_side_b_et">Side b</string>
+    <string name="text_side_c_et">Side c</string>
+    <string name="text_angle_gamma_et">Angle γ</string>
+    <string name="text_angle_alpha_et">Angle α</string>
+    <string name="text_angle_beta_et">Angle β</string>
+</resources>
